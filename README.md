@@ -1,2 +1,5 @@
-# MutualFundAnalytics
-Data Analytics internship project focused on mutual fund data, NAV analysis, and financial insights.
+# Mutual Fund Analytics Project
+
+Data Analytics Internship Project
+
+Day 1: Data Ingestion
